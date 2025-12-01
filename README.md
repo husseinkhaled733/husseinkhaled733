@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hussein Khaled</h1>
-<h3 align="center">Undergraduate software engineer</h3>
+<h3 align="center">Software engineer</h3>
 
 - 📫 How to reach me **husseinkhadrawy8@gmail.com**
 
